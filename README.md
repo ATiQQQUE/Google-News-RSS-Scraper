@@ -12,4 +12,4 @@ This project uses Python and the `feedparser` library to fetch and parse an RSS 
 
 This project showcases basic RSS feed parsing capabilities in Python, demonstrating how to retrieve and utilize data from an external source like Google News.
 
-![Project Image](images/project_image.png)
+![Important Image](img.png)
